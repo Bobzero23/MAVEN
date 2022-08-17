@@ -1,6 +1,7 @@
 package com.bobzero.MAVEN;
 
 /**
+ * 
  * Hello world!
  *
  */
